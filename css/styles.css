@@ -1,0 +1,36 @@
+
+
+.navbar{
+  background-color: gray;
+}
+
+
+h1{
+  color: black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;
+}
+
+h5{
+  color: black;
+  text-align: center;
+}
+
+.one{
+  border-bottom: 1px solid black;
+}
+
+.two{
+   border-bottom: 1px solid black;
+}
+
+.three{
+  border-bottom: 1px solid black;
+}
+
+.container{
+  background-color: gray;
+  margin-top: 5%;
+}
